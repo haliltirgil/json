@@ -4,7 +4,7 @@
         "numberOfUser": "232"
     },
     {
-        "name": "KTU AI",
+        "name": "Yapay Zeka Kulübü",
         "numberOfUser": "100"
     },
     {
@@ -14,5 +14,13 @@
     {
         "name": "KTU IIBF",
         "numberOfUser": "143"
+    },
+    {
+        "name": "Dağcılık Kulübü",
+        "numberOfUser": "183"
+    },
+    {
+        "name": "Su Sporları Kulübü",
+        "numberOfUser": "82"
     }
 ]
